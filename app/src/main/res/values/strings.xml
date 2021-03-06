@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn1">#34495E</string>
+    <string name="btn2">#d35400</string>
+    <string name="btn3">#2ECC71</string>
+    <string name="btn4">#3498DB</string>
+    <string name="btn5">#E74C3C</string>
+    <string name="placeHolder">Ingresa cualquier texto...</string>
+    <string name="tituloApp">Selecciona un boton</string>
+</resources>
